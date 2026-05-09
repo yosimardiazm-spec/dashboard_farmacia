@@ -1,0 +1,161 @@
+id_venta,fecha_venta,medicamento,categoria,farmacia,ciudad,cantidad_unidades,precio_unitario_cop,regimen,formula_medica,stock_disponible,proveedor,dias_vencimiento,total_venta_cop,mes,trimestre
+VTA-5000,2024-07-25,Ibuprofeno 400mg,Antiinflamatorio,Droguería Central,Medellín,16,50800.0,Subsidiado,No,145,MK,150,812800.0,7,3
+VTA-5001,2024-07-13,Losartán 50mg,Antihipertensivo,Farmacenter,Medellín,51,68800.0,Subsidiado,Sí,436,Bayer,389,3508800.0,7,3
+VTA-5002,2024-04-12,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Bucaramanga,10,36400.0,Subsidiado,No,88,Lafrancol,174,364000.0,4,2
+VTA-5003,2024-11-02,Azitromicina 500mg,Antibiótico,FarmaPlus,Bogotá,49,81300.0,Subsidiado,No,206,Bayer,285,3983700.0,11,4
+VTA-5004,2024-04-01,Diclofenaco 50mg,Antiinflamatorio,FarmaPlus,Cali,35,29700.0,Contributivo,Sí,279,Lafrancol,48,1039500.0,4,2
+VTA-5005,2024-04-27,Azitromicina 500mg,Antibiótico,Droguería Central,Cali,5,43300.0,Subsidiado,Sí,190,Novartis,529,216500.0,4,2
+VTA-5006,2024-05-07,Paracetamol 1g,Analgésico,Salud & Vida,Barranquilla,18,36200.0,Contributivo,Sí,128,MK,252,651600.0,5,2
+VTA-5007,2024-03-09,Metformina 850mg,Antidiabético,Droguería Central,Barranquilla,20,6300.0,Contributivo,Sí,36,Lafrancol,106,126000.0,3,1
+VTA-5008,2024-02-14,Atorvastatina 20mg,Hipolipemiante,Salud & Vida,Bogotá,48,20800.0,Contributivo,No,421,Bayer,642,998400.0,2,1
+VTA-5009,2024-05-08,Metformina 850mg,Antidiabético,FarmaPlus,Cali,15,50200.0,Particular,No,73,Lafrancol,407,753000.0,5,2
+VTA-5010,2024-07-15,Ibuprofeno 400mg,Antiinflamatorio,FarmaPlus,Bucaramanga,53,39000.0,Particular,Sí,128,Novartis,117,2067000.0,7,3
+VTA-5011,2024-09-28,Loratadina 10mg,Antihistamínico,Farmacenter,Cali,20,13100.0,Particular,Sí,153,Genfar,623,262000.0,9,3
+VTA-5012,2024-12-16,Losartán 50mg,Antihipertensivo,Droguería Central,Cali,9,10500.0,Subsidiado,No,79,Bayer,310,94500.0,12,4
+VTA-5013,2024-12-24,Loratadina 10mg,Antihistamínico,Droguería Central,Bucaramanga,41,27000.0,Particular,Sí,457,Bayer,170,1107000.0,12,4
+VTA-5014,2024-10-02,Ibuprofeno 400mg,Antiinflamatorio,Salud & Vida,Bogotá,18,25000.0,Particular,Sí,37,Genfar,658,450000.0,10,4
+VTA-5015,2024-02-15,Ibuprofeno 400mg,Antiinflamatorio,Salud & Vida,Barranquilla,10,36100.0,Particular,No,130,Novartis,681,361000.0,2,1
+VTA-5016,2024-11-15,Amoxicilina 500mg,Antibiótico,Cruz Verde,Cali,59,16400.0,Subsidiado,No,296,MK,305,967600.0,11,4
+VTA-5017,2024-09-07,Omeprazol 20mg,Antiácido,Droguería Central,Cali,50,47400.0,Contributivo,No,481,Genfar,536,2370000.0,9,3
+VTA-5018,2024-04-12,Metformina 850mg,Antidiabético,Salud & Vida,Cali,37,27900.0,Particular,No,422,Novartis,452,1032300.0,4,2
+VTA-5019,2024-08-03,Loratadina 10mg,Antihistamínico,Salud & Vida,Bogotá,42,45200.0,Contributivo,Sí,166,Lafrancol,668,1898400.0,8,3
+VTA-5020,2024-11-09,Paracetamol 1g,Analgésico,FarmaPlus,Bogotá,12,46000.0,Subsidiado,Sí,67,MK,87,552000.0,11,4
+VTA-5021,2024-10-28,Amoxicilina 500mg,Antibiótico,Farmacenter,Medellín,57,32200.0,Particular,Sí,458,Novartis,194,1835400.0,10,4
+VTA-5022,2024-04-20,Azitromicina 500mg,Antibiótico,Farmacenter,Medellín,15,32800.0,Particular,Sí,249,Bayer,413,492000.0,4,2
+VTA-5023,2024-07-10,Azitromicina 500mg,Antibiótico,Cruz Verde,Cali,2,27600.0,Subsidiado,No,171,Bayer,708,55200.0,7,3
+VTA-5024,2024-07-17,Metformina 850mg,Antidiabético,Salud & Vida,Bogotá,40,14300.0,Subsidiado,No,75,MK,87,572000.0,7,3
+VTA-5025,2024-12-15,Diclofenaco 50mg,Antiinflamatorio,FarmaPlus,Barranquilla,54,73200.0,Particular,Sí,142,Lafrancol,228,3952800.0,12,4
+VTA-5026,2024-04-18,Loratadina 10mg,Antihistamínico,FarmaPlus,Medellín,26,47600.0,Particular,Sí,381,Novartis,703,1237600.0,4,2
+VTA-5027,2024-03-18,Atorvastatina 20mg,Hipolipemiante,Farmacenter,Cali,8,51300.0,Subsidiado,Sí,183,Novartis,92,410400.0,3,1
+VTA-5028,2024-08-24,Metformina 850mg,Antidiabético,Salud & Vida,Bogotá,41,83500.0,Subsidiado,Sí,116,MK,576,3423500.0,8,3
+VTA-5029,2024-12-04,Diclofenaco 50mg,Antiinflamatorio,Farmacenter,Barranquilla,8,81100.0,Contributivo,No,252,Lafrancol,385,648800.0,12,4
+VTA-5030,2024-04-01,Ibuprofeno 400mg,Antiinflamatorio,Droguería Central,Bucaramanga,47,54800.0,Particular,Sí,227,Bayer,519,2575600.0,4,2
+VTA-5031,2024-10-17,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Bucaramanga,39,10800.0,Particular,Sí,473,Genfar,259,421200.0,10,4
+VTA-5032,2024-06-22,Amoxicilina 500mg,Antibiótico,Farmacenter,Barranquilla,22,9600.0,Subsidiado,Sí,308,Novartis,650,211200.0,6,2
+VTA-5033,2024-02-12,Atorvastatina 20mg,Hipolipemiante,Cruz Verde,Cali,48,24700.0,Subsidiado,No,100,Genfar,527,1185600.0,2,1
+VTA-5034,2024-09-27,Diclofenaco 50mg,Antiinflamatorio,Salud & Vida,Bogotá,32,59900.0,Particular,Sí,327,Genfar,369,1916800.0,9,3
+VTA-5035,2024-12-12,Losartán 50mg,Antihipertensivo,Cruz Verde,Barranquilla,53,5200.0,Subsidiado,Sí,258,Genfar,421,275600.0,12,4
+VTA-5036,2024-02-14,Losartán 50mg,Antihipertensivo,FarmaPlus,Bucaramanga,44,4000.0,Contributivo,No,423,Novartis,499,176000.0,2,1
+VTA-5037,2024-08-28,Omeprazol 20mg,Antiácido,Cruz Verde,Medellín,47,65900.0,Subsidiado,Sí,116,Lafrancol,457,3097300.0,8,3
+VTA-5038,2024-06-10,Paracetamol 1g,Analgésico,FarmaPlus,Cali,40,15200.0,Contributivo,No,355,Bayer,666,608000.0,6,2
+VTA-5039,2024-07-25,Atorvastatina 20mg,Hipolipemiante,Droguería Central,Cali,8,30000.0,Contributivo,Sí,36,Genfar,146,240000.0,7,3
+VTA-5040,2024-01-22,Amoxicilina 500mg,Antibiótico,Droguería Central,Medellín,36,5200.0,Particular,Sí,54,Bayer,61,187200.0,1,1
+VTA-5041,2024-05-17,Atorvastatina 20mg,Hipolipemiante,Farmacenter,Bucaramanga,50,22000.0,Contributivo,Sí,452,Genfar,506,1100000.0,5,2
+VTA-5042,2024-10-12,Ibuprofeno 400mg,Antiinflamatorio,Salud & Vida,Barranquilla,22,52800.0,Contributivo,Sí,164,MK,177,1161600.0,10,4
+VTA-5043,2024-01-04,Paracetamol 1g,Analgésico,Salud & Vida,Medellín,2,60500.0,Particular,Sí,258,Novartis,641,121000.0,1,1
+VTA-5044,2024-08-05,Ibuprofeno 400mg,Antiinflamatorio,FarmaPlus,Cali,10,21200.0,Particular,No,338,MK,227,212000.0,8,3
+VTA-5045,2024-04-14,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Barranquilla,59,18500.0,Particular,No,236,Novartis,372,1091500.0,4,2
+VTA-5046,2024-07-04,Ibuprofeno 400mg,Antiinflamatorio,Droguería Central,Barranquilla,8,26600.0,Subsidiado,Sí,214,Lafrancol,72,212800.0,7,3
+VTA-5047,2024-09-30,Losartán 50mg,Antihipertensivo,Cruz Verde,Bogotá,39,67500.0,Particular,No,39,MK,468,2632500.0,9,3
+VTA-5048,2024-02-11,Azitromicina 500mg,Antibiótico,Farmacenter,Bogotá,42,79600.0,Particular,Sí,242,Bayer,212,3343200.0,2,1
+VTA-5049,2024-08-24,Azitromicina 500mg,Antibiótico,FarmaPlus,Bucaramanga,31,9400.0,Subsidiado,Sí,223,Genfar,104,291400.0,8,3
+VTA-5050,2024-09-22,Diclofenaco 50mg,Antiinflamatorio,Cruz Verde,Cali,36,73800.0,Contributivo,Sí,179,Bayer,724,2656800.0,9,3
+VTA-5051,2024-04-11,Paracetamol 1g,Analgésico,FarmaPlus,Bucaramanga,20,28700.0,Subsidiado,Sí,128,Bayer,610,574000.0,4,2
+VTA-5052,2024-11-06,Diclofenaco 50mg,Antiinflamatorio,Farmacenter,Barranquilla,34,75700.0,Contributivo,No,301,Novartis,388,2573800.0,11,4
+VTA-5053,2024-08-24,Azitromicina 500mg,Antibiótico,Salud & Vida,Medellín,57,61400.0,Particular,Sí,341,Novartis,590,3499800.0,8,3
+VTA-5054,2024-01-27,Amoxicilina 500mg,Antibiótico,FarmaPlus,Barranquilla,32,30900.0,Subsidiado,Sí,45,Bayer,650,988800.0,1,1
+VTA-5055,2024-07-02,Loratadina 10mg,Antihistamínico,Salud & Vida,Medellín,47,24500.0,Contributivo,Sí,70,Genfar,579,1151500.0,7,3
+VTA-5056,2024-03-07,Losartán 50mg,Antihipertensivo,FarmaPlus,Cali,37,50100.0,Particular,No,115,Novartis,418,1853700.0,3,1
+VTA-5057,2024-04-20,Paracetamol 1g,Analgésico,Farmacenter,Bucaramanga,12,80200.0,Subsidiado,Sí,76,Genfar,149,962400.0,4,2
+VTA-5058,2024-03-23,Amoxicilina 500mg,Antibiótico,Droguería Central,Barranquilla,16,54200.0,Contributivo,Sí,188,Bayer,33,867200.0,3,1
+VTA-5059,2024-08-14,Omeprazol 20mg,Antiácido,Droguería Central,Barranquilla,10,40300.0,Subsidiado,No,110,MK,577,403000.0,8,3
+VTA-5060,2024-10-31,Amoxicilina 500mg,Antibiótico,Salud & Vida,Cali,58,77500.0,Particular,Sí,144,MK,718,4495000.0,10,4
+VTA-5061,2024-03-31,Paracetamol 1g,Analgésico,Farmacenter,Cali,38,57400.0,Subsidiado,Sí,38,Novartis,159,2181200.0,3,1
+VTA-5062,2024-09-14,Losartán 50mg,Antihipertensivo,Salud & Vida,Bogotá,50,14700.0,Particular,Sí,451,Bayer,188,735000.0,9,3
+VTA-5063,2024-12-04,Paracetamol 1g,Analgésico,Farmacenter,Cali,46,71900.0,Contributivo,Sí,372,Novartis,250,3307400.0,12,4
+VTA-5064,2024-03-31,Azitromicina 500mg,Antibiótico,FarmaPlus,Bucaramanga,57,56700.0,Particular,Sí,227,MK,290,3231900.0,3,1
+VTA-5065,2024-01-19,Losartán 50mg,Antihipertensivo,Droguería Central,Barranquilla,26,35400.0,Subsidiado,Sí,166,Novartis,723,920400.0,1,1
+VTA-5066,2024-02-26,Atorvastatina 20mg,Hipolipemiante,Cruz Verde,Medellín,51,50100.0,Subsidiado,Sí,414,MK,101,2555100.0,2,1
+VTA-5067,2024-01-12,Atorvastatina 20mg,Hipolipemiante,FarmaPlus,Bogotá,23,71400.0,Subsidiado,Sí,98,Novartis,665,1642200.0,1,1
+VTA-5068,2024-03-28,Diclofenaco 50mg,Antiinflamatorio,Farmacenter,Barranquilla,39,27000.0,Particular,Sí,85,Lafrancol,534,1053000.0,3,1
+VTA-5069,2024-08-30,Metformina 850mg,Antidiabético,Droguería Central,Bucaramanga,26,47400.0,Particular,Sí,372,MK,324,1232400.0,8,3
+VTA-5070,2024-12-16,Ibuprofeno 400mg,Antiinflamatorio,Cruz Verde,Bucaramanga,48,31700.0,Particular,Sí,248,Lafrancol,396,1521600.0,12,4
+VTA-5071,2024-08-02,Metformina 850mg,Antidiabético,Salud & Vida,Barranquilla,34,28900.0,Subsidiado,No,66,Genfar,640,982600.0,8,3
+VTA-5072,2024-02-11,Diclofenaco 50mg,Antiinflamatorio,Cruz Verde,Bucaramanga,56,69000.0,Contributivo,Sí,208,Bayer,512,3864000.0,2,1
+VTA-5073,2024-08-05,Loratadina 10mg,Antihistamínico,Droguería Central,Barranquilla,39,49700.0,Contributivo,Sí,1,Novartis,572,1938300.0,8,3
+VTA-5074,2024-11-19,Omeprazol 20mg,Antiácido,Farmacenter,Bucaramanga,5,10400.0,Particular,No,319,Lafrancol,388,52000.0,11,4
+VTA-5075,2024-02-14,Atorvastatina 20mg,Hipolipemiante,Farmacenter,Bucaramanga,52,81800.0,Subsidiado,Sí,455,Lafrancol,308,4253600.0,2,1
+VTA-5076,2024-03-14,Loratadina 10mg,Antihistamínico,Cruz Verde,Barranquilla,48,41000.0,Subsidiado,Sí,212,Bayer,399,1968000.0,3,1
+VTA-5077,2024-06-07,Atorvastatina 20mg,Hipolipemiante,FarmaPlus,Bucaramanga,2,67900.0,Contributivo,Sí,280,Lafrancol,153,135800.0,6,2
+VTA-5078,2024-11-12,Amoxicilina 500mg,Antibiótico,Farmacenter,Bogotá,3,2700.0,Subsidiado,Sí,408,Genfar,142,8100.0,11,4
+VTA-5079,2024-01-03,Losartán 50mg,Antihipertensivo,Salud & Vida,Barranquilla,28,8100.0,Particular,No,38,Novartis,71,226800.0,1,1
+VTA-5080,2024-07-14,Loratadina 10mg,Antihistamínico,Cruz Verde,Cali,47,27200.0,Subsidiado,No,276,Bayer,522,1278400.0,7,3
+VTA-5081,2024-06-17,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Bogotá,8,19600.0,Contributivo,No,278,Novartis,552,156800.0,6,2
+VTA-5082,2024-03-10,Atorvastatina 20mg,Hipolipemiante,Cruz Verde,Cali,2,18600.0,Contributivo,Sí,129,Bayer,404,37200.0,3,1
+VTA-5083,2024-09-24,Loratadina 10mg,Antihistamínico,Cruz Verde,Bucaramanga,38,31400.0,Subsidiado,No,12,Genfar,556,1193200.0,9,3
+VTA-5084,2024-07-26,Loratadina 10mg,Antihistamínico,Salud & Vida,Medellín,32,40900.0,Subsidiado,Sí,366,Genfar,379,1308800.0,7,3
+VTA-5085,2024-04-12,Azitromicina 500mg,Antibiótico,Salud & Vida,Barranquilla,46,21000.0,Particular,Sí,289,Bayer,152,966000.0,4,2
+VTA-5086,2024-01-29,Azitromicina 500mg,Antibiótico,Salud & Vida,Bogotá,24,84100.0,Contributivo,Sí,109,Novartis,583,2018400.0,1,1
+VTA-5087,2024-11-23,Amoxicilina 500mg,Antibiótico,Farmacenter,Medellín,1,65300.0,Particular,No,492,Genfar,256,65300.0,11,4
+VTA-5088,2024-04-18,Paracetamol 1g,Analgésico,FarmaPlus,Bogotá,6,18300.0,Subsidiado,Sí,214,Novartis,485,109800.0,4,2
+VTA-5089,2024-08-14,Losartán 50mg,Antihipertensivo,Droguería Central,Barranquilla,19,20100.0,Particular,Sí,53,MK,443,381900.0,8,3
+VTA-5090,2024-05-11,Metformina 850mg,Antidiabético,Cruz Verde,Bogotá,59,81100.0,Contributivo,No,324,Bayer,552,4784900.0,5,2
+VTA-5091,2024-10-06,Amoxicilina 500mg,Antibiótico,Cruz Verde,Bucaramanga,14,2600.0,Subsidiado,Sí,164,Novartis,88,36400.0,10,4
+VTA-5092,2024-07-25,Azitromicina 500mg,Antibiótico,Cruz Verde,Bucaramanga,3,82100.0,Subsidiado,Sí,146,Genfar,413,246300.0,7,3
+VTA-5093,2024-03-05,Amoxicilina 500mg,Antibiótico,FarmaPlus,Bogotá,39,33900.0,Contributivo,No,327,Novartis,538,1322100.0,3,1
+VTA-5094,2024-06-30,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Bucaramanga,23,57900.0,Subsidiado,Sí,37,Novartis,69,1331700.0,6,2
+VTA-5095,2024-12-21,Amoxicilina 500mg,Antibiótico,FarmaPlus,Cali,19,36700.0,Contributivo,No,21,Lafrancol,396,697300.0,12,4
+VTA-5096,2024-08-31,Azitromicina 500mg,Antibiótico,Salud & Vida,Bogotá,41,81300.0,Subsidiado,Sí,262,Bayer,125,3333300.0,8,3
+VTA-5097,2024-01-29,Metformina 850mg,Antidiabético,Farmacenter,Barranquilla,40,74300.0,Contributivo,Sí,376,Novartis,606,2972000.0,1,1
+VTA-5098,2024-03-08,Ibuprofeno 400mg,Antiinflamatorio,Farmacenter,Medellín,2,68700.0,Particular,No,363,Lafrancol,511,137400.0,3,1
+VTA-5099,2024-11-03,Amoxicilina 500mg,Antibiótico,Cruz Verde,Medellín,49,76200.0,Particular,No,362,Lafrancol,181,3733800.0,11,4
+VTA-5100,2024-03-18,Loratadina 10mg,Antihistamínico,Cruz Verde,Barranquilla,14,18000.0,Subsidiado,Sí,411,Novartis,496,252000.0,3,1
+VTA-5101,2024-11-07,Diclofenaco 50mg,Antiinflamatorio,Farmacenter,Barranquilla,24,49800.0,Particular,Sí,411,Bayer,356,1195200.0,11,4
+VTA-5102,2024-07-28,Paracetamol 1g,Analgésico,Farmacenter,Cali,3,39200.0,Particular,Sí,410,Novartis,610,117600.0,7,3
+VTA-5103,2024-03-04,Loratadina 10mg,Antihistamínico,Cruz Verde,Bucaramanga,17,64100.0,Contributivo,No,358,Lafrancol,409,1089700.0,3,1
+VTA-5104,2024-02-19,Omeprazol 20mg,Antiácido,Farmacenter,Bogotá,58,23600.0,Particular,No,407,Lafrancol,686,1368800.0,2,1
+VTA-5105,2024-03-01,Ibuprofeno 400mg,Antiinflamatorio,FarmaPlus,Medellín,56,48400.0,Subsidiado,Sí,0,Genfar,211,2710400.0,3,1
+VTA-5106,2024-03-14,Metformina 850mg,Antidiabético,Droguería Central,Cali,43,33100.0,Particular,Sí,31,Genfar,395,1423300.0,3,1
+VTA-5107,2024-05-31,Paracetamol 1g,Analgésico,Cruz Verde,Medellín,26,28900.0,Subsidiado,Sí,187,Bayer,676,751400.0,5,2
+VTA-5108,2024-03-30,Omeprazol 20mg,Antiácido,Farmacenter,Cali,27,3600.0,Particular,Sí,375,MK,649,97200.0,3,1
+VTA-5109,2024-03-31,Azitromicina 500mg,Antibiótico,FarmaPlus,Bogotá,26,32700.0,Contributivo,No,315,Lafrancol,78,850200.0,3,1
+VTA-5110,2024-07-28,Paracetamol 1g,Analgésico,Farmacenter,Bucaramanga,50,37700.0,Subsidiado,No,96,Novartis,454,1885000.0,7,3
+VTA-5111,2024-03-15,Paracetamol 1g,Analgésico,Droguería Central,Medellín,44,56700.0,Subsidiado,Sí,287,Lafrancol,78,2494800.0,3,1
+VTA-5112,2024-04-16,Loratadina 10mg,Antihistamínico,Salud & Vida,Barranquilla,25,83900.0,Subsidiado,Sí,479,Novartis,221,2097500.0,4,2
+VTA-5113,2024-10-14,Paracetamol 1g,Analgésico,Droguería Central,Barranquilla,34,25700.0,Contributivo,No,284,Lafrancol,44,873800.0,10,4
+VTA-5114,2024-06-12,Losartán 50mg,Antihipertensivo,Farmacenter,Cali,44,71900.0,Subsidiado,No,208,Novartis,40,3163600.0,6,2
+VTA-5115,2024-09-12,Paracetamol 1g,Analgésico,Droguería Central,Barranquilla,13,60100.0,Particular,Sí,55,Lafrancol,308,781300.0,9,3
+VTA-5116,2024-04-29,Omeprazol 20mg,Antiácido,Farmacenter,Barranquilla,18,52800.0,Contributivo,Sí,372,Lafrancol,67,950400.0,4,2
+VTA-5117,2024-05-11,Ibuprofeno 400mg,Antiinflamatorio,Cruz Verde,Barranquilla,43,8800.0,Subsidiado,Sí,256,Lafrancol,453,378400.0,5,2
+VTA-5118,2024-03-01,Omeprazol 20mg,Antiácido,Cruz Verde,Cali,42,17100.0,Particular,Sí,223,Bayer,473,718200.0,3,1
+VTA-5119,2024-07-04,Losartán 50mg,Antihipertensivo,Cruz Verde,Barranquilla,55,27800.0,Subsidiado,Sí,260,MK,567,1529000.0,7,3
+VTA-5120,2024-04-05,Omeprazol 20mg,Antiácido,Cruz Verde,Medellín,18,36900.0,Contributivo,Sí,23,MK,707,664200.0,4,2
+VTA-5121,2024-12-13,Loratadina 10mg,Antihistamínico,Salud & Vida,Bogotá,25,14800.0,Subsidiado,Sí,300,Bayer,412,370000.0,12,4
+VTA-5122,2024-02-07,Metformina 850mg,Antidiabético,Farmacenter,Bucaramanga,16,71700.0,Subsidiado,Sí,60,MK,547,1147200.0,2,1
+VTA-5123,2024-09-13,Metformina 850mg,Antidiabético,Farmacenter,Bucaramanga,11,30800.0,Subsidiado,Sí,78,Bayer,119,338800.0,9,3
+VTA-5124,2024-05-27,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Cali,10,24000.0,Particular,Sí,484,Genfar,493,240000.0,5,2
+VTA-5125,2024-01-06,Diclofenaco 50mg,Antiinflamatorio,FarmaPlus,Cali,24,40600.0,Contributivo,Sí,451,MK,128,974400.0,1,1
+VTA-5126,2024-10-26,Paracetamol 1g,Analgésico,FarmaPlus,Cali,13,72900.0,Contributivo,Sí,101,Novartis,424,947700.0,10,4
+VTA-5127,2024-01-25,Loratadina 10mg,Antihistamínico,Cruz Verde,Bucaramanga,10,17200.0,Particular,No,101,Novartis,239,172000.0,1,1
+VTA-5128,2024-06-21,Diclofenaco 50mg,Antiinflamatorio,Droguería Central,Cali,59,72500.0,Particular,No,62,Lafrancol,210,4277500.0,6,2
+VTA-5129,2024-04-20,Atorvastatina 20mg,Hipolipemiante,Salud & Vida,Bucaramanga,35,3000.0,Particular,Sí,184,Lafrancol,148,105000.0,4,2
+VTA-5130,2024-07-12,Atorvastatina 20mg,Hipolipemiante,Cruz Verde,Bucaramanga,30,60700.0,Subsidiado,No,463,MK,447,1821000.0,7,3
+VTA-5131,2024-07-23,Ibuprofeno 400mg,Antiinflamatorio,Farmacenter,Bogotá,18,83600.0,Particular,Sí,264,Genfar,38,1504800.0,7,3
+VTA-5132,2024-06-21,Atorvastatina 20mg,Hipolipemiante,Cruz Verde,Bucaramanga,11,15500.0,Subsidiado,No,328,Lafrancol,173,170500.0,6,2
+VTA-5133,2024-07-23,Amoxicilina 500mg,Antibiótico,Farmacenter,Medellín,6,55000.0,Contributivo,No,224,Genfar,488,330000.0,7,3
+VTA-5134,2024-07-16,Paracetamol 1g,Analgésico,Farmacenter,Barranquilla,34,17500.0,Contributivo,No,327,MK,127,595000.0,7,3
+VTA-5135,2024-07-31,Loratadina 10mg,Antihistamínico,FarmaPlus,Barranquilla,13,70800.0,Subsidiado,No,169,Lafrancol,273,920400.0,7,3
+VTA-5136,2024-07-08,Amoxicilina 500mg,Antibiótico,Cruz Verde,Bucaramanga,35,44800.0,Contributivo,No,137,Genfar,384,1568000.0,7,3
+VTA-5137,2024-09-30,Omeprazol 20mg,Antiácido,Salud & Vida,Medellín,24,70200.0,Particular,Sí,339,Bayer,90,1684800.0,9,3
+VTA-5138,2024-02-17,Loratadina 10mg,Antihistamínico,Farmacenter,Cali,48,16500.0,Subsidiado,Sí,431,MK,200,792000.0,2,1
+VTA-5139,2024-04-02,Paracetamol 1g,Analgésico,Salud & Vida,Cali,29,36300.0,Contributivo,No,131,Lafrancol,440,1052700.0,4,2
+VTA-5140,2024-01-20,Azitromicina 500mg,Antibiótico,Droguería Central,Barranquilla,25,34500.0,Contributivo,Sí,339,Lafrancol,44,862500.0,1,1
+VTA-5141,2024-07-09,Omeprazol 20mg,Antiácido,FarmaPlus,Bucaramanga,39,38900.0,Particular,No,319,Novartis,163,1517100.0,7,3
+VTA-5142,2024-07-23,Metformina 850mg,Antidiabético,Droguería Central,Bogotá,42,19200.0,Subsidiado,Sí,456,Bayer,202,806400.0,7,3
+VTA-5143,2024-08-15,Paracetamol 1g,Analgésico,Farmacenter,Bogotá,39,84200.0,Subsidiado,Sí,242,Lafrancol,317,3283800.0,8,3
+VTA-5144,2024-04-27,Atorvastatina 20mg,Hipolipemiante,Farmacenter,Medellín,29,83700.0,Contributivo,No,317,Novartis,371,2427300.0,4,2
+VTA-5145,2024-06-08,Amoxicilina 500mg,Antibiótico,Farmacenter,Bucaramanga,59,74400.0,Contributivo,Sí,350,Novartis,128,4389600.0,6,2
+VTA-5146,2024-12-01,Ibuprofeno 400mg,Antiinflamatorio,Cruz Verde,Medellín,36,81300.0,Contributivo,Sí,248,Lafrancol,654,2926800.0,12,4
+VTA-5147,2024-04-25,Loratadina 10mg,Antihistamínico,FarmaPlus,Barranquilla,22,52100.0,Subsidiado,No,390,Lafrancol,227,1146200.0,4,2
+VTA-5148,2024-11-30,Amoxicilina 500mg,Antibiótico,Droguería Central,Bogotá,30,67200.0,Contributivo,No,418,Lafrancol,377,2016000.0,11,4
+VTA-5149,2024-06-08,Atorvastatina 20mg,Hipolipemiante,Cruz Verde,Bogotá,26,28900.0,Contributivo,Sí,415,Bayer,164,751400.0,6,2
+VTA-5150,2024-02-24,Losartán 50mg,Antihipertensivo,FarmaPlus,Medellín,47,12400.0,Particular,No,386,MK,361,582800.0,2,1
+VTA-5151,2024-12-18,Atorvastatina 20mg,Hipolipemiante,Farmacenter,Barranquilla,38,34000.0,Particular,Sí,367,Novartis,552,1292000.0,12,4
+VTA-5152,2024-06-09,Diclofenaco 50mg,Antiinflamatorio,FarmaPlus,Bucaramanga,19,69200.0,Contributivo,No,403,Lafrancol,693,1314800.0,6,2
+VTA-5153,2024-04-21,Azitromicina 500mg,Antibiótico,Droguería Central,Bogotá,30,7600.0,Subsidiado,Sí,234,MK,89,228000.0,4,2
+VTA-5154,2024-12-30,Losartán 50mg,Antihipertensivo,Farmacenter,Bucaramanga,48,35700.0,Particular,Sí,296,Novartis,585,1713600.0,12,4
+VTA-5155,2024-12-11,Ibuprofeno 400mg,Antiinflamatorio,Droguería Central,Bogotá,34,43700.0,Particular,No,79,Novartis,117,1485800.0,12,4
+VTA-5156,2024-12-30,Atorvastatina 20mg,Hipolipemiante,Salud & Vida,Bogotá,12,33500.0,Contributivo,Sí,34,Lafrancol,155,402000.0,12,4
+VTA-5157,2024-05-07,Amoxicilina 500mg,Antibiótico,Droguería Central,Barranquilla,29,34600.0,Contributivo,Sí,482,MK,47,1003400.0,5,2
+VTA-5158,2024-07-15,Amoxicilina 500mg,Antibiótico,Salud & Vida,Bucaramanga,28,73800.0,Subsidiado,No,98,Lafrancol,222,2066400.0,7,3
+VTA-5159,2024-05-31,Loratadina 10mg,Antihistamínico,Cruz Verde,Bucaramanga,36,14000.0,Contributivo,Sí,422,MK,633,504000.0,5,2
